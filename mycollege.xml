@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_171" class="java.beans.XMLDecoder">
+ <object class="corejava.College" id="College0">
+  <void property="student">
+   <void method="add">
+    <object class="corejava.Student">
+     <void property="name">
+      <string>Raj</string>
+     </void>
+     <void property="roll">
+      <int>101</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="corejava.Student">
+     <void property="name">
+      <string>Rahul</string>
+     </void>
+     <void property="roll">
+      <int>102</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
